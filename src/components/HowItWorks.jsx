@@ -68,7 +68,7 @@ const HowItWorks = () => {
             </div>
           </div>
           <p className="text-gray font-semibold text-center mt-3">
-            Honkai: Star Rail
+            Asphalt 9: Legends
           </p>
         </div>
 
