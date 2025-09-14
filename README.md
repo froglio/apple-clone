@@ -6,6 +6,14 @@ This repository is a clone of the iPhone 15 showcase site, built as an exercise 
 
 ---
 
+## 📺 Preview
+
+Live demo: https://apple-clone-two-ashen.vercel.app/
+
+![Preview screenshot](public/assets/images/preview.png)
+
+---
+
 ## ✨ Overview
 
 A single-page showcase built with React and Vite. The main goals were to practice animation techniques, multimedia handling (videos/images) and client-side 3D rendering.
